@@ -17,11 +17,11 @@ Possibly misspelled words in DESCRIPTION:
 Size of tarball: 5381349 bytes
 
 * checking installed package size ... NOTE
-  installed size is  5.3Mb
-  sub-directories of 1Mb or more:
-    data   5.2Mb
+installed size is  5.3Mb
+sub-directories of 1Mb or more:
+  data   5.2Mb
 
-  This is a data package that will be rarely updated.
+This is a data package that will be rarely updated.
 
 
 ## Downstream dependencies
