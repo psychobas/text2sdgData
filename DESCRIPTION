@@ -1,12 +1,15 @@
 Package: text2sdgData
-Title: What the Package Does (One Line, Title Case)
+Title: Contains the trained text2sdg Ensemble Model Data 
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person(c("Dominik","S."), "Meier", role = c("aut", "cre"),
+    		email = "dominikmeier@outlook.com",
+    		comment = c(ORCID = "0000-0002-3999-1388"))
+Description: This is a companioin package for the text2sdg package. It contains the trained ensemble models needed by the `detect_sdg` text2sdg function.  
+License: GPL (>= 3)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
+Depends: 
+    R (>= 2.10)
+LazyData: true
