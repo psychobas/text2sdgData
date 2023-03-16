@@ -6,7 +6,7 @@ Authors@R:
     person(c("Dominik","S."), "Meier", role = c("aut", "cre"),
     		email = "dominikmeier@outlook.com",
     		comment = c(ORCID = "0000-0002-3999-1388"))
-Description: This is a companion package for the 'text2sdg' package. It contains the trained ensemble models needed by the 'detect_sdg' text2sdg function. See Wulff, Meier and Mata (2023) <arXiv:2301.11353> and Meier, Wulff and Mata (2021) <arXiv:2110.05856> for reference.
+Description: This is a companion package for the 'text2sdg' package. It contains the trained ensemble models needed by the 'detect_sdg' function from the 'text2sdg' package. See Wulff, Meier and Mata (2023) <arXiv:2301.11353> and Meier, Wulff and Mata (2021) <arXiv:2110.05856> for reference.
 License: GPL (>= 3)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
