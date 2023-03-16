@@ -1,6 +1,6 @@
 Package: text2sdgData
 Title: Contains the Trained 'text2sdg' Ensemble Model Data 
-Version: 0.1.0
+Version: 0.2.0
 Date: 2023-3-15
 Authors@R: 
     person(c("Dominik","S."), "Meier", role = c("aut", "cre"),
