@@ -1,5 +1,5 @@
 ## This is a new release
-This package contains data for the `text2sdg` package. Because the data is larger than 5 MB, Uwe Ligges suggested that we store this data in a separate package so that software (`text2sdg`) can be updated separately from the trained model (now stored in this package).
+This package contains data for the 'text2sdg' package. Because the data is larger than 5 MB, Uwe Ligges suggested that we store this data in a separate package so that software ('text2sdg') can be updated separately from the trained model (now stored in this package).
 
 
 ## R CMD check results
