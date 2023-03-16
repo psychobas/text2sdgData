@@ -1,5 +1,3 @@
-# text2sdgData 0.2.0
-
 # text2sdgData 0.1.0
 * First CRAN release
 
