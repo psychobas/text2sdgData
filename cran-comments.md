@@ -12,7 +12,9 @@ Maintainer: ‘Dominik S. Meier <dominikmeier@outlook.com>’
 New submission
 
 Possibly misspelled words in DESCRIPTION:
-  sdg (2:35, 8:55, 8:130, 8:140)
+  Mata (9:177, 9:229)
+  sdg (9:142)
+  Wulff (9:160, 9:219)
 
 Size of tarball: 5381349 bytes
 
