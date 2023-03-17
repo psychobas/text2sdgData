@@ -1,27 +1,22 @@
-## This is a new release
-This package contains data for the 'text2sdg' package. Because the data is larger than 5 MB, Uwe Ligges suggested that we store this data in a separate package so that software ('text2sdg') can be updated separately from the trained model (now stored in this package).
+## This is a minor update
+Fix typo in names of ensembles list. 'tripple' -> 'triple'
 
 
 ## R CMD check results
 
 0 errors | 0 warnings | 2 notes
 
-* checking CRAN incoming feasibility ... NOTE
-Maintainer: ‘Dominik S. Meier <dominikmeier@outlook.com>’
+* checking CRAN incoming feasibility ... [12s] NOTE
+Maintainer: 'Dominik S. Meier <dominikmeier@outlook.com>'
 
-New submission
+Days since last update: 1
 
-Possibly misspelled words in DESCRIPTION:
-  Mata (9:177, 9:229)
-  sdg (9:142)
-  Wulff (9:160, 9:219)
-
-Size of tarball: 5381349 bytes
+Size of tarball: 5381835 bytes
 
 * checking installed package size ... NOTE
-installed size is  5.3Mb
-sub-directories of 1Mb or more:
-  data   5.2Mb
+  installed size is  5.2Mb
+  sub-directories of 1Mb or more:
+    data   5.2Mb
 
 This is a data package that will be rarely updated.
 
